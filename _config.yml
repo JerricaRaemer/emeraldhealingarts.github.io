@@ -1,8 +1,6 @@
 title: Emerald Healing Arts
 subtitle: A Gentle Approach to Deep Healing
 description: Emerald Healing Arts encourages transformation through healing touch and education in the touch therapy community.
-
-theme: jekyll-freelancer-theme
   
 plugins:
   - jekyll-feed
