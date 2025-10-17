@@ -1,8 +1,8 @@
-layout: default
 title: Emerald Healing Arts
 subtitle: A Gentle Approach to Deep Healing
-Description: Emerald Healing Arts encourages transformation through healing touch and education in the touch therapy community.
-remote_theme: mmistakes/minimal-mistakes
+description: Emerald Healing Arts encourages transformation through healing touch and education in the touch therapy community.
+
+theme: jekyll-freelancer-theme
   
 plugins:
   - jekyll-feed
@@ -13,4 +13,3 @@ sass:
   sass_dir: _sass
   style: compressed
 
-minimal_mistakes_skin: default
