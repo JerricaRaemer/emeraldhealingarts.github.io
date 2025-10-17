@@ -1,3 +1,9 @@
+---
+layout: single
+title: Classes & Workshops
+permalink: /classes/
+---
+
 # Classes & Workshops
 
 ## First workshop
