@@ -1,3 +1,9 @@
+---
+layout: single
+title: My Story
+permalink: /about/
+---
+
 # Elizabeth Cooley LMT
 #### My journey
 
