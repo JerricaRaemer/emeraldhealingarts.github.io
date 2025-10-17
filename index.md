@@ -1,6 +1,3 @@
-# Emerald Healing Arts
-#### A Gentle Approach to Deep Healing
-
 ## Heading Here
 items here are for rambling and telling them about the business
 
